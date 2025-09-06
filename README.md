@@ -16,3 +16,4 @@ A simple Streamlit web app to convert images to grayscale using Python, OpenCV, 
 ## Check the app here
 [Click to open the app](https://z69s8whgyq6w56vm4ky7st.streamlit.app/)
 
+
